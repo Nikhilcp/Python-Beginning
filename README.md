@@ -1,2 +1,1 @@
-# Python-Beginning
-Python From Basic to Advance
+This is my first project with GitHub. 
